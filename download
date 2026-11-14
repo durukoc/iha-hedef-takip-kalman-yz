@@ -1,0 +1,20 @@
+# Python & Sanal Ortam
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Model ağırlıkları ve büyük video dosyaları
+*.pt
+*.onnx
+*.mp4
+*.avi
+*.mov
+
+# Streamlit & IDE
+.streamlit/
+.vscode/
+.idea/
+.DS_Store
